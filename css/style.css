@@ -52,6 +52,7 @@ img:hover {
 .large {
   width: 300%;
   height:300%;
+  align-content: center
 }
 .medium {
   width: 200%;
